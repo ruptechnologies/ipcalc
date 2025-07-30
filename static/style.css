@@ -1,0 +1,8 @@
+body {
+  background: linear-gradient(135deg, #e0f7fa, #ffffff);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card-title {
+  color: #007bff;
+}
